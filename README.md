@@ -112,7 +112,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 100   | Time Series Projects Code                                    | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://github.com/deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-) |
 | 101   | 12 Machine learning Object Detection                         | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37) |
 | 102   | 20 NLP Project with Python                                   | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c) |
-
+| 103   | Food recognition and nutrient calculation with diet planning in food101 dataset using MobileNetV2                                   | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://github.com/abhijithpillaiv/Food-recognition.git) |
 ***More Projects list is coming...!!!***
 
 ---
